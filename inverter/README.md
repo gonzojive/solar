@@ -5,6 +5,8 @@ The files in this directory were originally developed by Tim Nolan.  I found
 them on
 [his web site](http://www.timnolan.com/index.php?page=solar-grid-intertie-inverter).
 
+The website is no longer available, and I cannot confirm the license of the original code at this point.
+
 ## Project Technical Description
 
 An inverter is basically an electronic device that takes a DC input voltage and
